@@ -1,9 +1,12 @@
 ## 💜 Olá, meu nome é <strong>{Marcos Paulo}!</strong>
 
 
-🔭 Estudante de Ads buscando aprimorar habilidades na área de Desenvolvimento de uma forma geral!
+🔭 Estudante de Analise e Desenvolvimento de sistemas da PUC-Goias!
 
-💬 Sempre aberto a novos desafios.
+💬 Back-End Developer
+
+Estudante de Spring - java (Por cursos e Falculdade)
+Conhecimentos: Html5, javaScript, JAVA, C#, Python, Delphi, Dockers, SQL, Mysql, dentre outras tecnologias!
 
 ----
 
@@ -18,7 +21,4 @@
 <code><img height="16" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/></code>
 <code><img height="16" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"  alt="C#"/></code>
 
----
 
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcos-PauloR&show_icons=true)
