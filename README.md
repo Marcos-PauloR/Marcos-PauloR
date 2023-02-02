@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Marcos Paulo}!</strong>
+## 💜 Olá, me chamo <strong>Marcos Paulo!</strong>
 
 
 🔭 Estudante de Analise e Desenvolvimento de sistemas da PUC-Goias!
